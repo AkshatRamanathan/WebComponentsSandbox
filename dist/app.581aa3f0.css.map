@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/scss/app.scss"],"names":[],"mappings":"AAAA;EACI;EACA","file":"app.581aa3f0.css","sourceRoot":"../public","sourcesContent":["* {\n    background-color: blueviolet;\n    color: aliceblue;\n}"]}
